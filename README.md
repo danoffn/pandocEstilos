@@ -10,7 +10,7 @@ Primero se debe generar un documento con markdown, y luego usar pandoc con una r
 pandoc -o custom-reference.docx --print-default-data-file reference.docx
 ```
 
-Los templates predefinidos se almacenan en la carpeta estilos.
+Los templates predefinidos se almacenan en la carpeta estilos. Se deben mover al directorio `$HOME/.local/share/pandoc/` para que pandoc los encuentre por defecto.
 
 ### Modificar los estilos del template
 
@@ -39,10 +39,10 @@ Se pueden insertar (en el footer o header) en el docx las variables almacenadas 
 
 ## Uso
 
-Navegar a carpeta infoWeb y ejecutar aplicación
+Navegar a la carpeta donde se encuentra el archivo markdown y ejecutar:
 
 ``` {.bash}
-pandoc -s ejemplo.md -o salida/ejemplo.docx --reference-doc=estilo/kyber.docx 
+pandoc -s ejemplo.md -o ejemplo.docx --reference-doc=$HOME/.local/share/pandoc/kyber.docx 
 ```
 
 ## Links interesantes:
