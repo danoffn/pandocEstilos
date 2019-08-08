@@ -10,7 +10,7 @@ Primero se debe generar un documento con markdown, y luego usar pandoc con una r
 pandoc -o custom-reference.docx --print-default-data-file reference.docx
 ```
 
-Los templates prdefinidos se alamacenan en la carpeta estilos.
+Los templates predefinidos se almacenan en la carpeta estilos.
 
 ### Modificar los estilos del template
 
