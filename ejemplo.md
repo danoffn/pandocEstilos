@@ -1,9 +1,16 @@
 ---
 date: 8 de Agosto de 2019
 numbersections: True
-title: Lorem ipsum dolor sit amet
 toc: True
 toc-title: Tabla de contenidos
+abstract: abstracTest
+author: authorTest
+title: titleTest
+subject: subjectTest
+keywords: keywordTest
+category: categoryTest
+status: statusTest
+comments: commentTest
 ---
 
 # Revisiones
