@@ -1,0 +1,2 @@
+2019-08-14 +feat1 crear estilo que permita resaltar comentarios/pendientes con amarillo @kyber
+2019-08-14 +feat2 crear tabla de revisiones justo despues de título @kyber
