@@ -1,1 +1,1 @@
-2019-08-14 +feat2 crear tabla de revisiones justo despues de título @kyber
+2019-08-14 +feat2 Crear tabla de revisiones justo despues de título @kyber
