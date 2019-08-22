@@ -5,4 +5,8 @@ x 2019-08-20 2019-08-20 +feat4 Modifica estilo código para resaltar pendientes 
 x 2019-08-20 2019-08-20 +fix1 Recupera estilo por defecto de tabla @kyber
 x 2019-08-20 2019-08-20 +feat5 Agrega bordes a tabla @kyber
 x 2019-08-21 2019-08-21 +style1 Modificar fuente de TOC a calibri @kyber
+<<<<<<< HEAD
 x 2019-08-22 2019-08-22 +style2: Cambiar estilo de footnote @kyber
+=======
+x 2019-08-22 2019-08-22 +style2: Cambiar estilo de footnote y agrega ejemplo @kyber
+>>>>>>> style2
