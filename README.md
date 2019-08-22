@@ -42,7 +42,7 @@ Se pueden insertar (en el footer o header) en el docx las variables almacenadas 
 Navegar a la carpeta donde se encuentra el archivo markdown y ejecutar:
 
 ``` {.bash}
-pandoc -s ejemplo.md -o salida/ejemplo.docx --reference-doc=$HOME/App/pandocEstilos/estilos/kyber.docx 
+pandoc -s ejemplo.md -o salida/kyber.docx --reference-doc=$HOME/App/pandocEstilos/estilos/kyber.docx 
 ```
 
 ## Links interesantes:
